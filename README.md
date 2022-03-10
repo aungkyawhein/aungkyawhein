@@ -1,7 +1,7 @@
 # A human being on earth
 who
-- 🎵 loves listing and playing music
-- 🌱 loves nature 
+- 🎵 loves listening and playing music
+- 🌱 loves nature
 - 📷 loves [photography](https://www.flickr.com/photos/aungkyawhein)
 - 🥃 likes Islay Single Malt
 - 💻 likes to develop useful applications
