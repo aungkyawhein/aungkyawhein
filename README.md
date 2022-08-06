@@ -1,10 +1,10 @@
-# A human being on earth
-who
-- 🎵 loves listening and playing music
-- 🌱 loves nature
-- 📷 loves [photography](https://www.flickr.com/photos/aungkyawhein)
-- 🥃 likes Islay Single Malt
-- 💻 likes to develop useful applications
+# Just a human being on earth
+
+- 🎵 music
+- 🌱 nature
+- 📷 [photography](https://www.flickr.com/photos/aungkyawhein)
+- 🥃 Islay Single Malt
+- 💻 useful applications
 
 <!--
 **aungkyawhein/aungkyawhein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
