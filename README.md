@@ -1,11 +1,3 @@
-# Just a human being on earth
-
-- 🎵 music
-- 🌱 nature
-- 📷 [photography](https://www.flickr.com/photos/aungkyawhein)
-- 🥃 Islay Single Malt
-- 💻 useful applications
-
 <!--
 **aungkyawhein/aungkyawhein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
