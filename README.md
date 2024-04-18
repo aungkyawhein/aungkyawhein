@@ -12,10 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello there! I'm a seasoned frontend developer with a passion for crafting exceptional user experiences. With extensive industry experience, I've honed my skills over the years to become a senior/lead frontend developer.
-
-💻 My expertise lies in popular frontend frameworks such as Angular, React, and Vue.js. I've had the opportunity to work with these frameworks extensively and have successfully delivered high-quality projects using them.
-
-🚀 On GitHub, you'll find a collection of my hobby projects. These projects serve as a creative outlet for my personal interests while also aiming to be useful for other developers and enthusiasts. It's always fulfilling to contribute to the community and share knowledge with fellow developers.
-
-🌟 If you're interested in frontend development, exploring new technologies, or collaborating on exciting projects, feel free to reach out. Let's connect and create something awesome together!
+👋 Hello there!
